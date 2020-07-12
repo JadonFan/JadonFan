@@ -9,8 +9,6 @@ If you want to learn more about me, you should visit my [personal website](www.j
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=JadonFan&show_icons=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0066ff)
 
-### Programming Languages
-
 | Java | JavaScript | TypeScript | Ruby | Python | Kotlin | C | C++ 
 |---|---|---|---|---|---|---|---|
 
