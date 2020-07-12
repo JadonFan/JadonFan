@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Jadon Fan. I am a 3rd year Computer Engineering student at the University of Waterloo in Waterloo, ON, Canada. <br>
-If you want to learn more about me, you should visit my [personal website](www.jadonfan.com). <br>
+If you want to learn more about me, you should visit my [personal website](https://www.jadonfan.com). <br>
 [![LinkedIn: JadonFan](https://img.shields.io/badge/-JadonFan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jadon-fan-414993141/)](https://www.linkedin.com/in/jadon-fan-414993141/)
 [![GitHub: JadonFan](https://img.shields.io/github/followers/JadonFan?label=follow&style=social)](https://github.com/JadonFan)
 
