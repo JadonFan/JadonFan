@@ -12,8 +12,8 @@ If you want to learn more about me, you should visit my [personal website](https
 | Java | JavaScript | TypeScript | Ruby | Python | Kotlin | C | C++ 
 |---|---|---|---|---|---|---|---|
 
-| React | Redux | Ruby on Rails | Django | Spring Boot | RxJava | Dagger | JUnit | Espresso 
-|---|---|---|---|---|---|---|---|---|
+| React | Redux | Ruby on Rails | Django | Apollo Client | Graphene | Android SDK | RxJava | 
+|---|---|---|---|---|---|---|---|
 
 <!--
 **JadonFan/JadonFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
