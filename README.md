@@ -12,7 +12,7 @@ If you want to learn more about me, you should visit my [personal website](https
 | Java | JavaScript | TypeScript | Ruby | Python | Kotlin | C | C++ 
 |---|---|---|---|---|---|---|---|
 
-| React | Redux | Ruby on Rails | Django | Apollo Client | Graphene | Android SDK | RxJava | 
+| React | Redux | Ruby on Rails | Django | Apollo | Android SDK | PostgreSQL | MongoDB
 |---|---|---|---|---|---|---|---|
 
 <!--
