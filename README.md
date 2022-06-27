@@ -9,8 +9,8 @@ Visit my [personal website](https://www.jadonfan.com) to learn more about me.
 ![My Stats](https://github-readme-stats.vercel.app/api?username=JadonFan&show_icons=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0066ff)
 
 #### Programming Languages
-| Java | JavaScript | TypeScript | Ruby | Python | Kotlin | C | C++ 
-|---|---|---|---|---|---|---|---|
+| Java | JavaScript | TypeScript | Ruby | Python | Kotlin | C++ 
+|---|---|---|---|---|---|---|
 
 #### Frameworks and Libraries
 | React | Redux | Ruby on Rails | Django | Apollo | Android 
